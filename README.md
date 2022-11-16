@@ -18,7 +18,10 @@ Put your tokens inside of tokens.json in json format, example below:
 
 ## Usage
 
+You need to open the index.html, and change put your tokens on "tokens.json" file.
+
 When the program has started it will check tokens as fast as possible!
+
 To check the tokens go into the console as "Live Tokens" or "Dead Tokens" (Example Below).
 
 ## Contact
