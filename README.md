@@ -24,7 +24,7 @@ When the program has started it will check tokens as fast as possible!
 
 To check the tokens go into the console as "Live Tokens" or "Dead Tokens" (Example Below).
 
-![](https://github.com/secuestrador/Discord-Token-Checker/gif.gif)
+![](https://github.com/secuestrador/Discord-Token-Checker/blob/main/gif.gif)
 
 ## Contact
 
