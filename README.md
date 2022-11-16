@@ -22,7 +22,9 @@ You need to open the index.html, and change put your tokens on "tokens.json" fil
 
 When the program has started it will check tokens as fast as possible!
 
-To check the tokens go into the console as "Live Tokens" or "Dead Tokens" (Example Below).
+To check the tokens go into the console as "Live Tokens" or "Dead Tokens".
+
+## Example
 
 ![](https://github.com/secuestrador/Discord-Token-Checker/blob/main/gif.gif)
 
