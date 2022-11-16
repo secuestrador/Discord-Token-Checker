@@ -26,4 +26,4 @@ To check the tokens go into the console as "Live Tokens" or "Dead Tokens" (Examp
 
 ## Contact
 
-Telegram Chat: codergit22@proton.me
+E-mail: codergit22@proton.me
