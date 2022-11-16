@@ -1,6 +1,6 @@
 ## Discord Token Checker
 
-Discord Token Checker for checking list of tokens!
+Discord Token Checker for checking any list of tokens!
 
 ## Tokens
 
